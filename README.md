@@ -24,7 +24,7 @@
 ## 🇸🇦 بالعربي
 
 ### وش يسوي البوت؟
-ترسل له فيديو أو رابط، فيسمع الكلام، ويترجمه، ويكتب الترجمة على الفيديو مثل الأفلام، ويرجعه لك جاهز للنشر.
+ترسل له فيديو، أو رابطه من تيك توك أو انستقرام أو إكس أو سناب وأغلب المواقع، فيسمع الكلام، ويترجمه، ويكتب الترجمة على الفيديو مثل الأفلام، ويرجعه لك جاهز للنشر.
 
 ### المميزات
 - 🎙 **تفريغ دقيق للكلام** بأي لغة، مع تصحيح تلقائي للكلمات اللي تُسمع غلط.
@@ -39,7 +39,7 @@
 
 ### طريقة الاستخدام
 1. افتح البوت: **[@SubVidAiBot](https://t.me/SubVidAiBot)** واضغط **ابدأ**.
-2. أرسل **فيديو من جوالك** أو **رابط تيك توك** أو **رابط فيديو مباشر**.
+2. أرسل **فيديو من جوالك** أو **رابطه** من تيك توك أو انستقرام أو إكس أو سناب وأغلب المواقع.
 3. اختر لغة الترجمة والإعدادات اللي تبيها (أو استخدم الإعدادات الجاهزة).
 4. استلم الفيديو مترجمًا خلال أقل من دقيقة للمقاطع القصيرة.
 
@@ -48,7 +48,7 @@
 ### المدعوم
 | | |
 |---|---|
-| المصادر | ملف فيديو، رابط تيك توك، رابط فيديو مباشر |
+| المصادر | ملف فيديو، أو رابط من تيك توك وانستقرام وإكس وسناب وأغلب المواقع |
 | حجم الملف | حتى 2 جيجا |
 | مدة المقطع | حتى 3 ساعات |
 | اللغات | أكثر من 30 لغة للكلام، والترجمة لأغلبها |
@@ -59,7 +59,7 @@
 ## 🇬🇧 In English
 
 ### What it does
-Send a video or a link; the bot listens to the speech, translates it, burns the subtitles onto the video like in films, and sends it back ready to share.
+Send a video, or a link from TikTok, Instagram, X, Snapchat and most sites; the bot listens to the speech, translates it, burns the subtitles onto the video like in films, and sends it back ready to share.
 
 ### Features
 - 🎙 **Accurate transcription** in any language, with automatic correction of misheard words.
@@ -74,7 +74,7 @@ Send a video or a link; the bot listens to the speech, translates it, burns the 
 
 ### How to use
 1. Open **[@SubVidAiBot](https://t.me/SubVidAiBot)** and tap **Start**.
-2. Send a **video file**, a **TikTok link** or a **direct video link**.
+2. Send a **video file** or a **link** from TikTok, Instagram, X, Snapchat and most sites.
 3. Pick the target language and your settings (or the ready-made defaults).
 4. Get your subtitled video back — usually in under a minute for short clips.
 
@@ -83,7 +83,7 @@ Send a video or a link; the bot listens to the speech, translates it, burns the 
 ### Supported
 | | |
 |---|---|
-| Sources | video file, TikTok link, direct video link |
+| Sources | video file, or a link from TikTok, Instagram, X, Snapchat and most sites |
 | File size | up to 2 GB |
 | Clip length | up to 3 hours |
 | Languages | 30+ spoken languages; translation into most of them |
