@@ -19,9 +19,15 @@
 
 <br>
 
+<img src="assets/demo_bilingual.gif" width="560" alt="SubVid Ai demo: Gulf Arabic subtitles with the original English line underneath">
+
+<sub>ترجمة بلغتين: العامية الخليجية فوق والإنجليزي الأصلي تحت · Bilingual: Gulf Arabic on top, the original English below</sub>
+
+<br><br>
+
 <img src="assets/demo.gif" width="560" alt="SubVid Ai demo: an English conversation with Gulf Arabic film-style subtitles">
 
-<sub>مثال: محادثة بالإنجليزي مترجمة بالعامية الخليجية، مع كشف الحوار تلقائيًا · Example: English dialogue, Gulf Arabic subtitles, automatic dialogue dashes</sub>
+<sub>كشف الحوار تلقائيًا: شرطة لكل متكلم كما في الأفلام · Automatic dialogue dashes, like in films</sub>
 
 </div>
 
