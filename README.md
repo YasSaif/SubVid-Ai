@@ -17,6 +17,12 @@
 
 [العربية](#-بالعربي) · [English](#-in-english) · [الخصوصية / Privacy](docs/PRIVACY.md)
 
+<br>
+
+<img src="assets/demo.gif" width="560" alt="SubVid Ai demo: an English conversation with Gulf Arabic film-style subtitles">
+
+<sub>مثال: محادثة بالإنجليزي مترجمة بالعامية الخليجية، مع كشف الحوار تلقائيًا · Example: English dialogue, Gulf Arabic subtitles, automatic dialogue dashes</sub>
+
 </div>
 
 ---
